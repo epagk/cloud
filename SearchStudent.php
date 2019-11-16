@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Teacher Page</title>
+	<title>Search Student Page</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 <style>
 body  {
@@ -58,7 +58,7 @@ $username = $_SESSION['username'];
 <br>
 
 <div class="option">
-  <h2>Search a Student</h2>
+  <h2>Search Students</h2>
 </div>
 <br> 
 

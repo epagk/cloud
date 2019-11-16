@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Teacher Page</title>
+	<title>Add Student Page</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 <style>
 body  {
