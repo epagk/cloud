@@ -29,7 +29,7 @@ Greece
 <?php
 session_start();
 // Get values
-$username = $_POST['user'];
+$username = $_POST['user']; 
 $password = $_POST['pass'];
 
 $username = stripcslashes($username);
