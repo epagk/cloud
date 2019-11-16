@@ -1,0 +1,153 @@
+/*body {
+  background-color: #41ccd9;
+ }
+*/
+ .header {
+  padding: 20px;
+  text-align: center;
+  background: rgba(255, 99, 71, 0.2);
+  color: white;
+  font-family: Georgia, serif;
+  font-size: 19px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  font-weight: 700;
+  text-decoration: none;
+  font-style: italic;
+  font-variant: normal;
+  text-transform: capitalize;
+}
+
+.topcorner{
+   position:absolute;
+   top:0;
+   right:0;
+ }
+
+ .menu{
+ 	background-color: #dddddd;
+ }
+
+ .container{
+ 	width: 80%;
+ 	margin: 0 auto;
+ }
+
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.option{
+	background-color: rgba(148, 210, 255, 0.2);
+	padding: 2px;
+    text-align: center;
+    font-family: Georgia, serif;
+    font-size: 19px;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+}
+
+ header{
+ 	background-color: #178599;
+ 	height: 50px
+ }
+
+ nav{
+ 	float: center;
+ }
+
+ nav ul{
+ 	margin: 0;
+ 	padding: 0;
+ 	list-style: none;
+ }
+
+ nav li{
+ 	display: inline-block;
+ 	margin-left: 70px;
+ 	padding-top: 8px;
+ }
+
+ nav a{
+ 	text-decoration: none;
+ 	text-transform: uppercase;
+ 	font-size: 20px;
+ }
+
+ nav a:hover{
+ 	color: #34348a
+ }
+
+#addr {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+
+#intro {
+  font-style: italic;
+  text-align: left;
+  color: black;
+  font-size: 10px;
+}
+
+#form{
+	text-align: center;
+	border: inset black 5px;
+	width: 20%
+	border-radius: 5px;
+	margin: 100px auto;
+	background: #178599;
+	padding: 30px;
+}
+
+#btn{
+	color: green;
+	padding: 3px;
+	margin-left: 230px;
+}
+
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px; 
+  color: green;
+}
