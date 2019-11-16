@@ -61,10 +61,10 @@ $username = $_SESSION['username'];
 session_start();
 $option = $_SESSION['option'];  // Teacher's option. Add || Edit || Delete || Search
 
-$servername = "localhost";
-$username = "eadmin";
-$password = "manoloDB";
-$dbname = "myDB";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
